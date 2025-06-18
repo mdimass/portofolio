@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Design and Development of an IoT-Based DC Motor Speed Control Learning Module Using Proportional-Integral-Derivative (PID) Controller",
+    "year": "2025",
+    "partner": "Bambang Supriyo, BSEE, M.Eng.Sc., Ph.D.",
+    "role": "Engineer",
+    "description": "Developed a learning module for DC motor speed control using IoT technology and PID control. The project involved designing the hardware and software components, including a web-based interface for real-time monitoring and control of the motor speed.",
+    "image": "images/PID.jpg",
+    "link": "https://web.polines.ac.id/id/"
+  },
+  {
+    "title": "Application of LoRaWAN Technology for PM2.5 Air Quality Monitoring",
+    "year": "2024",
+    "partner": "Tunas Batam Industrial Area",
+    "role": "Engineer",
+    "description": "I was responsible for tracking Modbus addresses to read sensor data and integrating the data into the Antares IoT platform. I also designed and developed a real-time monitoring dashboard to visualize air quality measurements.",
+    "image": "images/monitoring.png",
+    "link": "https://tunasindustrial.com/"
+  },
+
+  {
+    "title": "LoRaWAN-Based Power Meter",
+    "year": "2024",
+    "partner": "PT Komatsu Indonesia",
+    "role": "Engineer",
+    "description": "Perform installation and configuration of power meters and Modbus-to-LoRaWAN converters to enable real-time energy monitoring over a wireless network. Ensure accurate data transmission from industrial equipment to the Antares platform.",
+    "image": "images/konfigurasiPower.jpg",
+    "link": "https://antares.id/"
+  },
+  {
+    "title": "LoRaWAN-Based Water Meter",
+    "year": "2024",
+    "partner": "PT Komatsu Indonesia",
+    "role": "Engineer",
+    "description": "Reinstalled and maintained LoRaWAN-based water meter sensors at PT Komatsu Indonesia, ensuring accurate water usage monitoring and stable wireless data transmission for facility management.",
+    "image": "images/waterMeter.jpg",
+    "link": "https://antares.id/"
+  },
+  {
+    "title": "LoRaWAN-Based Gas Meter",
+    "year": "2024",
+    "partner": "PT Komatsu Indonesia",
+    "role": "Engineer",
+    "description": "Installed and configured Modbus-based gas sensors integrated with a LoRaWAN network at PT Komatsu Indonesia. Ensured accurate gas monitoring and reliable wireless data transmission to support facility safety and remote monitoring.",
+    "image": "images/gas.jpg",
+    "link": "https://antares.id/"
+  },
+  {
+    "title": "LoRaWAN-Based Waste Flow Monitoring",
+    "year": "2024",
+    "partner": "PT Komatsu Indonesia",
+    "role": "Engineer",
+    "description": "Installed and configured Modbus flow sensors integrated with a LoRaWAN network to monitor wastewater discharge at PT Komatsu Indonesia. Ensured accurate flow data collection and reliable wireless transmission for effective environmental monitoring and compliance.",
+    "image": "images/limbah.jpg",
+    "link": "https://antares.id/"
+  },
+  {
+    "title": "PCB Design Services",
+    "year": "2020 - Present",
+    "role": "PCB Designer",
+    "description": "Providing PCB design services for various types of electronic needs, from analog circuits, digital circuits, to mixed signal circuits. The work process includes schematic creation, PCB layout, to production file preparation (Gerber and BOM). Has worked with various individuals and businesses to develop efficient, functional, and production-ready electronic products.",
+    "image": "images/tokopedia.png",
+    "link": "https://www.tokopedia.com/anlimitidpcb/jasa-desain-pcb-segala-rangkaian?extParam=src%3Dshop%26whid%3D11671937&aff_unique_id=&channel=others&chain_key="
+  }
+]

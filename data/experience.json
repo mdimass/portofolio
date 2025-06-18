@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Anlimitid PCB",
+    "logo": "images/toko.png",
+    "position": "Founder",
+    "year": "August 2020 - Present",
+    "description": "Launched Anlimitid PCB to provide specialized PCB design solutions for electronics development, catering to both hobbyists and professionals. The business focuses on delivering detailed schematic creation, accurate PCB layout design, and proper Gerber file generation to ensure seamless manufacturing. Additionally, I operate verified stores on Shopee and Tokopedia, offering PCB production services and selling essential electronic components to support the full development cycle from design to deployment."
+  },
+  {
+    "company": "PT Telekomunikasi Indonesia",
+    "logo": "images/logo_telkom.png",
+    "position": "Engineer",
+    "year": "September 2024 - December 2024",
+    "description": "Internship Final Project: Application of LoRaWAN Technology for PM2.5 Air Quality Monitoring in Tunas Batam Industrial Area Developed and implemented a real-time air quality monitoring system using LoRaWAN communication, focusing on PM2.5 data collection, transmission, and visualization in an industrial environment."
+  },
+  {
+    "company": "PT Teknomedika Manufaktur Inovasi",
+    "logo": "images/teknomedika.jpeg",
+    "position": "Machine Operator",
+    "year": "August 2021 - January 2022",
+    "description": "As a machine operator in the production division, I was responsible for collaborating with the production team to meet daily targets set by the production manager. The company primarily focused on manufacturing medical masks as its main product. In addition to my daily duties, I was also required to study ESP32 and the use of various sensors every weekend to enhance my technical knowledge and skills."
+  }
+]

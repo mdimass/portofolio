@@ -1,0 +1,16 @@
+[
+  {
+    "university": "Politeknik Negeri Semarang",
+    "logo": "images/polines-logo.png",
+    "major": "Diploma in Electronics Engineering",
+    "year": "2022 - 2025",
+    "description": "GPA 3.74 of 4.00; Final project titled Design and Development of an IoT-Based DC Motor Speed Control Learning Module Using Proportional-Integral-Derivative (PID) Controller under the supervision of Bambang Supriyo, BSEE, M.Eng.Sc., Ph.D."
+  },
+  {
+    "university": "Vocational High School (SMK Negeri 7 Semarang)",
+    "logo": "images/smkn7.png",
+    "major": "Power and Communication Electronics Engineering",
+    "year": "2018 - 2022",
+    "description": "GPA 84.5 of 100;"
+  }
+]

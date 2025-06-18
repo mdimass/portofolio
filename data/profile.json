@@ -1,0 +1,46 @@
+{
+  "name": "Muhammad Dimas Suraji-  Electronic Engineering",
+  "description": "Electronics Engineering graduate (D3) with a focus on IoT, passionate about technology and hands-on learning. Experienced in developing real-world IoT solutions, including a PID-based DC motor speed control learning module and a LoRaWAN-based PM2.5 air quality monitoring system in an industrial setting. Committed to applying engineering knowledge to practical challenges and continuous innovation.",
+  "profileImage": "images/dimas.png",
+  "email": "muhammaddimassuraji@gmail.com",
+  "phone": "+62 (895) 3669-93658",
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muhammad-dimas-suraji-9a71b3355/"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/mdimass"
+    }
+  ],
+  "cv": {
+    "text": "Download CV",
+    "file": "docs/cv.pdf",
+    "icon": "fas fa-file-pdf"
+  },
+  "skills": [
+    { "name": "PCB Design", "icon": "fas fa-print", "level": 98 },
+    { "name": "Prototyping", "icon": "fas fa-tools", "level": 94 },
+    {
+      "name": "Small Business Management",
+      "icon": "fas fa-briefcase",
+      "level": 90
+    },
+    {
+      "name": "LoRaWAN Technology",
+      "icon": "fas fa-signal",
+      "level": 84
+    },
+    { "name": "IoT Protocols", "icon": "fas fa-network-wired", "level": 82 },
+    { "name": "Control Systems", "icon": "fas fa-sliders-h", "level": 87 },
+
+    {
+      "name": "Simulation and Modeling",
+      "icon": "fas fa-project-diagram",
+      "level": 82
+    },
+    { "name": "Web Programming", "icon": "fab fa-js", "level": 70 },
+    { "name": "Foreign Languages", "icon": "fas fa-language", "level": 75 }
+  ]
+}
